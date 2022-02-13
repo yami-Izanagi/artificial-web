@@ -88,10 +88,38 @@ body {
 } */
 
 .navbar-nav {
-  margin-left: auto;
+  margin-left: 75vw;
   font-size: 2rem;
 }
 
 .nav-item {
   padding-left: 2px;
 }
+
+.ytbtn {
+  margin-top: 2rem;
+}
+
+.btn-visit {
+  text-decoration: none;
+  color: #fff;
+  font-size: 2rem;
+  border: solid 1px;
+  padding: 1.5rem;
+  border-radius: 10px;
+}
+
+.btn-visit:hover {
+  background-color: #fff;
+  color: #000;
+}
+
+/* .btn-visit:link,
+.btn-visit:visited {
+  font-size: 2rem;
+  text-decoration: none;
+  color: #fff;
+  background-color: rgba(0, 0, 0, 0);
+  padding: 1.5rem;
+  transition: all 0.2s;
+} */
