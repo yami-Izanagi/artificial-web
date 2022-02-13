@@ -64,6 +64,8 @@ body {
   animation-name: moveInLeft;
   animation-duration: 1s;
   animation-timing-function: ease-out;
+  animation-fill-mode: backwards;
+  animation-delay: 2.5s;
 }
 
 .heading-big {
@@ -77,6 +79,8 @@ body {
   animation-name: moveInRight;
   animation-duration: 1s;
   animation-timing-function: ease-out;
+  animation-fill-mode: backwards;
+  animation-delay: 2.5s;
 }
 
 /* .navbar-custom {
